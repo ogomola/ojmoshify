@@ -848,7 +848,7 @@ a {
 
 .footer__brand img {
   /* TODO: Consider refactoring this and applying
-  it ti all images. */
+  it to all images. */
   width: 100%;
   max-width: 230px;
 }
